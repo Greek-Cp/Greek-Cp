@@ -1,1 +1,90 @@
-![Metrics](https://metrics.lecoq.io/Greek-Cp?template=classic&isocalendar=1&languages=1&habits=1&activity=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=Asia%2FJakarta)
+<h1 align="center">Hey 👋 What's Up? I'm Yanuar Tri Laksono</h1>
+
+<p align="center">Mobile Engineer • Flutter Developer • Backend Enthusiast • Cloud & DevOps Explorer</p>
+
+---
+
+<div align="center">
+
+### 🚀 Tech Stack & Tools I Use
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Socials
+
+<a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25"/></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="25"/></a>
+<a href="#"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="25"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 GitHub Streak
+
+<img 
+  src="https://streak-stats.demolab.com?user=Greek-Cp&theme=dracula&hide_border=false&border_radius=6" 
+  height="150"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Visitor Counter
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Greek-Cp.Greek-Cp&left_color=black&right_color=red"/>
+
+</div>
+
+---
+
+### 🍒 Contribution Graph (Pacman Style)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Greek-Cp&show_icons=true&count_private=true&theme=dracula&border_radius=6" 
+  height="150"
+/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Greek-Cp&layout=compact&langs_count=6&theme=dracula&border_radius=6" 
+  height="150"
+/>
+
+</div>
+
+---
