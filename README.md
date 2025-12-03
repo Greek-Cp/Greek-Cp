@@ -72,8 +72,13 @@
     media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/refs/heads/main/light-github-user-contribution.svg"
   />
+  <img 
+    alt="GitHub contribution graph" 
+    src="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/refs/heads/main/github-user-contribution.svg"
+  />
 </picture>
 
+---
 ---
 
 ---
