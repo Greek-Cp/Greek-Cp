@@ -64,10 +64,17 @@
 
 ### 🍒 Contribution
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/refs/heads/main/github-user-contribution.svg)">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/refs/heads/main/github-user-contribution.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/refs/heads/main/dark-github-user-contribution.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Greek-Cp/Greek-Cp/refs/heads/main/light-github-user-contribution.svg"
+  />
 </picture>
+
+---
 
 ---
 
